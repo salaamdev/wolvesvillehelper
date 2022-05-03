@@ -11,7 +11,7 @@
 // @updateURL    https://raw.githubusercontent.com/redscorpionx/wov-helper/main/wov%20helper.js
 // @downloadURL  https://raw.githubusercontent.com/redscorpionx/wov-helper/main/wov%20helper.js
 // @license      GPL-3.0-or-later
-// @version      1.1.0
+// @version      1.2.0
 // @grant        none
 // @copyright    2022, RedScorpion
 // ==/UserScript==
