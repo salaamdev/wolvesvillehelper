@@ -5,13 +5,13 @@
 // @match        *://*.wolvesville.com/*
 // @match        *://googleads.g.doubleclick.net/pagead/*
 // @description  Group of scripts that make woolvesville easier
-// @namespace    https://github.com/redscorpionx/wov-helper
-// @homepageURL  https://github.com/redscorpionx/wov-helper
+// @namespace    https://github.com/redscorpionx/wolvesvillehelper
+// @homepageURL  https://github.com/redscorpionx/wolvesvillehelper
 // @icon         https://img.icons8.com/external-icongeek26-outline-icongeek26/100/000000/external-wolf-animal-faces-icongeek26-outline-icongeek26.png
-// @updateURL    https://raw.githubusercontent.com/redscorpionx/wov-helper/main/wov%20helper.js
-// @downloadURL  https://raw.githubusercontent.com/redscorpionx/wov-helper/main/wov%20helper.js
+// @updateURL    https://raw.githubusercontent.com/redscorpionx/wolvesvillehelper/main/wolvesvillehelper.js
+// @downloadURL  https://raw.githubusercontent.com/redscorpionx/wolvesvillehelper/main/wolvesvillehelper.js
 // @license      GPL-3.0-or-later
-// @version      1.2.0
+// @version      1.0.0
 // @grant        none
 // @copyright    2022, RedScorpion
 // ==/UserScript==
